@@ -30,7 +30,7 @@ Python 3 et Git disponibles sur Termux.
 
 1. Clonez le dépôt :
 
-git clone https://github.com/YohanHack/SpamWa.git  
+git clone https://github.com/YohanHack/SpanWa.git  
 cd spamwa
 
 
